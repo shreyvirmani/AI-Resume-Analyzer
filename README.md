@@ -194,8 +194,8 @@ B.Tech – Electronics & Communication Engineering
 
 Passionate about Artificial Intelligence, Machine Learning, and Full-Stack AI Applications.
 
-- 💼 LinkedIn: *Add your LinkedIn profile*
-- 🐙 GitHub: *Add your GitHub profile*
+- 💼 LinkedIn: https://www.linkedin.com/in/shrey-virmani-1a352a325/
+- 🐙 GitHub: https://github.com/shreyvirmani
 
 ---
 
